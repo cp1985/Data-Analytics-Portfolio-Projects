@@ -2,11 +2,11 @@
 
 ## Content
 
-## About Me
+### About Me
 
-## Portfolio Projects
+### Portfolio Projects
 
-### 1. HR Dashboard (Power BI Project)
+#### 1. HR Dashboard (Power BI Project)
 **Description:**
 
 **Code:** [HR Data.pbix](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Data.pbix)
