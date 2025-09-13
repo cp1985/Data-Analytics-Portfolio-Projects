@@ -18,12 +18,5 @@
 **Skills:** Data cleaning, Data analysis, Data vizualization, Exploratory data analysis (EDA), Trend analysis
 
 **KPI's Tracked:**
-1. Total Employees;
-2. Atrition;
-3. Attrition Rate;
-4. Active Employees
-5. Average Age
-6. Job Satisfaction Rating
-7. Total Employees by Age Group & Gendder
 
-**Results:**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f83f1d48-9d54-41ca-abea-5f71762d9fa0" />
