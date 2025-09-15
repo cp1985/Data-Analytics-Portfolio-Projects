@@ -28,6 +28,11 @@
 **Code:** 
 
 **Original dataset:** 
+   - [constituencywise_details.csv](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/INDIA%20GENERAL%20ELECTIONS%20RESULT%20ANALYSIS%202024/constituencywise_details.csv)
+   - [constituencywise_results.csv](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/INDIA%20GENERAL%20ELECTIONS%20RESULT%20ANALYSIS%202024/constituencywise_results.csv)
+   - [partywise_results.csv](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/INDIA%20GENERAL%20ELECTIONS%20RESULT%20ANALYSIS%202024/partywise_results.csv)
+   - [states.csv](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/INDIA%20GENERAL%20ELECTIONS%20RESULT%20ANALYSIS%202024/states.csv)
+   - [statewise_results.csv](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/INDIA%20GENERAL%20ELECTIONS%20RESULT%20ANALYSIS%202024/statewise_results.csv)
 
 **Skills:** 
 
