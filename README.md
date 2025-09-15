@@ -5,9 +5,9 @@
 2. [SQL Server Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects?tab=readme-ov-file#sql-server-projects)
 3. [XLSX Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects?tab=readme-ov-file#xlsx-projects)
    
-### Power BI Projects
+## Power BI Projects
 
-#### 1. HR Dashboard
+### 1. HR Dashboard
 **Description:**
 
 **Code:** [HR Data.pbix](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Data.pbix)
@@ -22,9 +22,9 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f83f1d48-9d54-41ca-abea-5f71762d9fa0" />
 
-### SQL Server Projects
+## SQL Server Projects
 
-#### 1. India 2024 General Election Results Analysis 
+### 1. India 2024 General Election Results Analysis 
 **Description:**
 
 **Code:** 
@@ -37,9 +37,9 @@
 
 **KPI's Tracked:**
 
-### XLSX Projects
+## XLSX Projects
 
-#### 1. Road Accident Data Analysis 
+### 1. Road Accident Data Analysis 
 
 **Code:** Was not able to upload original file due to large size (>57MB)
 
