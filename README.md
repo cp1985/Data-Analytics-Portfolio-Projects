@@ -2,8 +2,8 @@
 
 ## Content
 1. [Power BI Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/edit/main/README.md#power-bi-projects)
-2. [SQL Server Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/edit/main/README.md#power-bi-projects)
-3. [XLSX Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/edit/main/README.md#power-bi-projects)
+2. [SQL Server Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects?tab=readme-ov-file#sql-server-projects)
+3. [XLSX Projects](https://github.com/cp1985/Data-Analytics-Portfolio-Projects?tab=readme-ov-file#xlsx-projects)
    
 ### Power BI Projects
 
