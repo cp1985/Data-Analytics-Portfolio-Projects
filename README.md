@@ -12,8 +12,6 @@
 
 **Code:** [HR Data.pbix](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Data.pbix)
 
-**Presentation:** [HR Data.pptx](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Data.pptx)
-
 **Original dataset:** [HR Data.xlsx](https://github.com/cp1985/Data-Analytics-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Data.xlsx)
 
 **Skills Used:** Data cleaning, Data analysis, Data vizualization, Exploratory data analysis (EDA), Trend analysis
@@ -29,8 +27,6 @@
 
 **Code:** 
 
-**Presentation:** 
-
 **Original dataset:** 
 
 **Skills:** 
@@ -43,12 +39,12 @@
 
 **Code:** Was not able to upload original file due to large size (>57MB)
 
-**Presentation:** 
+**Original dataset:** [Road Accident Data.xlsx](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?pli=1&gid=1319047066#gid=1319047066)
+
+**Skills Used:** Data cleaning, Data analysis, Data vizualization, Exploratory data analysis (EDA), Trend analysis, Pivot Table, Pivot Chart, Dashboard Preperation
+
+**KPI's Tracked:**
 
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/b754b244-6869-41fa-8657-2a9a40f56e85" />
 
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/99ea632e-55a5-48c0-a7a7-ba09f0286a17" />
-
-**Original dataset:** [Road Accident Data.xlsx](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?pli=1&gid=1319047066#gid=1319047066)
-
-**Skills Used:** Data cleaning, Data analysis, Data vizualization, Exploratory data analysis (EDA), Trend analysis, Pivot Table, Pivot Chart, Dashboard Preperation
